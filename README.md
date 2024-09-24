@@ -1,8 +1,7 @@
 # G4Growth_backend
 
 ### Link to the Schema
-https://docs.google.com/document/d/1fUI8I-BIlmtTe4gQ9oT1iYNgpAApeyZHsxSiAUV6fwY/edit
-
+https://docs.google.com/document/d/12eTBOrOw0UKMbDJ3uoc_ojqbpcrTOi18/edit?usp=sharing&ouid=117167852058505409831&rtpof=true&sd=true
 
 ## apps 
     - user
